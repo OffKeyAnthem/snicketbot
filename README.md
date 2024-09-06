@@ -1,2 +1,2 @@
 # snicketbot
-bot for Discord server
+Simple bot that uses ChatGPT to respond to questions
